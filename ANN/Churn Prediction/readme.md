@@ -64,15 +64,24 @@ The project is divided into **three main components**:
 * Churn Dataset (customer demographic and usage data)
 * Used for training and testing the ANN model
 
-## 👤 Author
+👤 Author
 
-   + **Author Name:** Kaushik Das
-   + **Role:** Machine Learning / Data Science Enthusiast
-   + **Contact:** [kudokaito.pd@gmail.com](mailto:your.email@example.com)
-   + **GitHub / LinkedIn:** (optional)
+Kaushik Das
+Machine Learning / Data Science Enthusiast
 
-## 📄 License
+⭐ Acknowledgement
 
-This project is for educational and learning purposes. Feel free to use and modify it.
+Thanks to open-source datasets and libraries that made this project possible.
 
-⭐ If you find this project helpful, consider giving it a star!
+🚀 Connect With Me
+
+📧 Email: [kudokaito.pd@gmail.com](mailto:your.email@example.com)
+🔗 LinkedIn: https://www.linkedin.com/in/kaushik-das-919928317
+🐙 GitHub: - https://github.com/amiKaushik
+
+
+Thanks for checking out this project!
+
+If this project helped you, feel free to ⭐ star the repo and share it with others learning 
+
+This project is for educational purposes only.
